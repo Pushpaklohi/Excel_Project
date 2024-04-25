@@ -6,3 +6,6 @@
 4. The top three states contributing to the highest sales are Uttar Pradesh, Karnataka, and Maharashtra. (~35%)
 5. Sales predominantly come from adults(30-49 yrs), with women being the primary purchasers in 2022.
 6. Amazon accounts for a substantial portion, approximately 35%, of total sales, indicating its potential significance in revenue growth         strategies.
+
+**FINAL CONCLUSION TO IMPROVE VRINDA STORE SALES:**
+-- Target women customers of age group (30-49yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
